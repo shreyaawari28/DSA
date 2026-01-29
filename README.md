@@ -10,7 +10,7 @@ The focus is on building strong problem-solving skills through **consistent, log
 - Strengthen core DSA fundamentals  
 - Improve algorithmic thinking and optimization  
 - Prepare for technical interviews (product-based companies)  
-- Maintain disciplined and trackable practice
+- Maintain disciplined and trackable practice  
 
 ---
 
@@ -25,7 +25,7 @@ The focus is on building strong problem-solving skills through **consistent, log
 - Graphs  
 - Dynamic Programming  
 - Searching & Sorting  
-- LeetCode Problems
+- LeetCode Problems  
 
 ---
 
@@ -34,7 +34,7 @@ The focus is on building strong problem-solving skills through **consistent, log
 - Clean and readable **Java** code  
 - Focus on optimal **time and space complexity**  
 - Logic-first, interview-oriented solutions  
-- No shortcuts, no memorization
+- No shortcuts, no memorization  
 
 ---
 
@@ -49,22 +49,28 @@ The focus is on building strong problem-solving skills through **consistent, log
 - Consistent daily practice  
 - Topic-wise progression  
 - Regular revision of weak areas  
-- Emphasis on understanding over speed
+- Emphasis on understanding over speed  
 
 ---
 
 ## 🚀 Goal
 
-Build strong DSA foundations and become interview-ready for **product-based companies (MAANG / Oracle)**.
+Build strong DSA foundations and become interview-ready for  
+**product-based companies (MAANG / Oracle)**.
 
 ---
 
 ## 🔗 Connect With Me
 
 - 📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)  
-- 💼 LinkedIn: https://www.linkedin.com/in/your-linkedin-username
+- 💼 LinkedIn: https://www.linkedin.com/in/your-linkedin-username  
 
 ---
-This repository is actively maintained and will be updated with new problems and improved solutions over time.
+
+## 📌 Notes
+
+This repository is actively maintained and will be updated with new problems and improved solutions.
+
 ⭐ If you find this repository useful, consider giving it a star.
+
 
