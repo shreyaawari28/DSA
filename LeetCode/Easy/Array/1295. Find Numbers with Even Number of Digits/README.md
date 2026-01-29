@@ -1,53 +1,56 @@
-# 1480. Running Sum of 1D Array – Java Solution
+# 1295. Find Numbers with Even Number of Digits – Java Solution
 
-This repository contains a Java solution for the **LeetCode problem: Running Sum of 1D Array**.
+This repository contains a Java solution for the **LeetCode problem: Find Numbers with Even Number of Digits**.
 
-The solution demonstrates how to compute the cumulative sum of an array using an **in-place, single-pass approach** for optimal performance.
+The solution determines how many numbers in a given array contain an **even number of digits** using a digit-counting approach.
 
 ---
 
 ## 📌 Problem Overview
 
-Given an integer array, each element at index `i` is updated to store the sum of all elements from index `0` to `i`.
+Given an integer array, the task is to count how many elements in the array have an **even number of digits**.
 
-This problem is commonly used to introduce **prefix sum concepts** and efficient array traversal techniques.
+This problem is commonly used to test understanding of:
+- Number manipulation
+- Looping logic
+- Basic mathematical operations
 
 ---
 
 ## 🧪 Code Functionality
 
-- Traverses the array starting from the second element  
-- Adds the previous element’s value to the current element  
-- Modifies the array in place  
-- Returns the updated array as the result  
+- Iterates through each number in the array  
+- Counts digits by repeatedly dividing the number by `10`  
+- Checks whether the digit count is even  
+- Maintains a counter for valid numbers  
+- Returns the final count  
 
 ---
 
 ## 🧠 Concepts Covered
 
 - Arrays  
-- Prefix Sum (Running Sum)  
-- In-place array modification  
-- Linear traversal  
-- Time and Space Complexity optimization  
+- Integer division  
+- Digit counting logic  
+- Looping constructs (`for`, `while`)  
+- Conditional statements  
 
 ---
 
 ## ⏱️ Complexity Analysis
 
-- **Time Complexity:** `O(n)`  
-- **Space Complexity:** `O(1)` (in-place)  
+- **Time Complexity:** `O(n × d)`  
+  *(where `d` is the number of digits in a number)*  
+- **Space Complexity:** `O(1)`
 
 ---
 
 ## 🖥️ Screenshots
 
 📸 **Test case execution result**  
-
 ![Test Case Screenshot](testcases.png)
 
 📸 **LeetCode submission result**  
-
 ![Submission Screenshot](submission.png)
 
 ---
@@ -63,9 +66,9 @@ This problem is commonly used to introduce **prefix sum concepts** and efficient
 
 ## ⚠️ Notes
 
-- The array is modified in place  
-- No additional data structures are used  
-- Suitable for interview and beginner DSA practice  
+- The input array values are modified during digit counting  
+- Logic is correct but can be improved by using a temporary variable  
+- Suitable for beginner-level DSA and interview practice  
 
 ---
 
@@ -75,4 +78,3 @@ This problem is commonly used to introduce **prefix sum concepts** and efficient
 📧 Email: shreyaawari31@gmail.com  
 🌐 GitHub: https://github.com/shreyaawari28  
 💼 LinkedIn: https://www.linkedin.com/in/shreya-awari-/
-
