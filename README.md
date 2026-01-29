@@ -62,8 +62,8 @@ Build strong DSA foundations and become interview-ready for
 
 ## 🔗 Connect With Me
 
-- 📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)  
-- 💼 LinkedIn: https://www.linkedin.com/in/your-linkedin-username  
+📧 Email: shreyaawari31@gmail.com  
+🌐 GitHub: https://github.com/shreyaawari28 
 
 ---
 
