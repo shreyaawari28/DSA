@@ -55,7 +55,7 @@ This problem is commonly used to introduce **prefix sum concepts** and efficient
 ## 📂 File Information
 
 - `Solution.java` — Java source code  
-- `testcases.png` — Screenshot of test case execution  
+- `testcases.jpeg` — Screenshot of test case execution  
 - `submission.png` — Screenshot of accepted submission  
 - `README.md` — Problem documentation  
 
