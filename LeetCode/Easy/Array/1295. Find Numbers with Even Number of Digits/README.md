@@ -74,5 +74,5 @@ This problem is commonly used to introduce **prefix sum concepts** and efficient
 **Shreya Awari**  
 📧 Email: shreyaawari31@gmail.com  
 🌐 GitHub: https://github.com/shreyaawari28  
-💼 LinkedIn: https://www.linkedin.com/in/your-linkedin-username
+💼 LinkedIn: https://www.linkedin.com/in/shreya-awari-/
 
