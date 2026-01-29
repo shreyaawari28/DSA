@@ -43,9 +43,11 @@ This problem is commonly used to introduce **prefix sum concepts** and efficient
 ## 🖥️ Screenshots
 
 📸 **Test case execution result:**  
+
 ![Test Case Screenshot](testcases.jpeg)
 
 📸 **LeetCode submission result:**  
+
 ![Submission Screenshot](submission.png)
 
 ---
