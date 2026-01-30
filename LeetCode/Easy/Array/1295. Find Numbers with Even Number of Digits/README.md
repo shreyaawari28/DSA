@@ -48,9 +48,11 @@ This problem is commonly used to test understanding of:
 ## 🖥️ Screenshots
 
 📸 **Test case execution result**  
+
 ![Test Case Screenshot](testcases.png)
 
 📸 **LeetCode submission result**  
+
 ![Submission Screenshot](submission.png)
 
 ---
